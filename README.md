@@ -46,11 +46,11 @@
 
 </p>
 
-<h3 align="center">Backend</h3>
+<!--<h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
 
-</p>
+</p> -->
 
 <h3 align="center">Database</h3>
 <p align="center">
