@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=It's%20Kartik%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20Moodie%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22To%20work%20alone%20you%20have%20the%20right%2C%20and%20not%20to%20the%20fruits.%20Do%20not%20be%20impelled%20by%20the%20fruits%20of%20work.%20Nor%20have%20attachment%20to%20inaction.%22" alt="Typing introduction" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=It's%20Kartik%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20Moodie%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 </p>
 
 <p align="center">
@@ -9,8 +9,10 @@
     <img src="https://komarev.com/ghpvc/?username=kartikanshgoyal&label=Profile%20views&color=00FFFF&style=flat-square" alt="kartikanshgoyal's profile views" />
   </a>
 </p>
+<p align="center">
+<img align = "center" src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="80%" />
+</p>
 
-<img src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🎓 Third-year B.Tech CSE (AI & ML) Student
@@ -21,21 +23,11 @@
 
 
 ## 🧠 My Focus Areas
-- C
 - C++
 - You  😏
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/kartikanshgoyal">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kartikanshgoyal&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="kartikanshgoyal's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=kartikanshgoyal&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="kartikanshgoyal's GitHub Streak" width="49%" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+
 
 
 ## 🛠️ Languages & Tools
@@ -88,7 +80,8 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=kartikanshgoyal)
+
+<br/>
 <br/>
 
 ## 🔗 Connect with Me
@@ -100,6 +93,10 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
+
+<br/>
+
+<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
